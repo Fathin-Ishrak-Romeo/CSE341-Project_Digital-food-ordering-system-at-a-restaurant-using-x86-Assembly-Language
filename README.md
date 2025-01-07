@@ -1,4 +1,4 @@
-# Features
+# Features (Step by Step)
 1. The user is greeted with a welcome message.  
 2. All the food categories (breakfast, lunch, dinner, snacks, dinners) are shown to the user.  
 3. The user can select any category or exit the program.  
