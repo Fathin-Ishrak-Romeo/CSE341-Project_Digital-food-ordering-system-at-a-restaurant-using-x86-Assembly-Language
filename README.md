@@ -1,1 +1,14 @@
-<img src="meme/meme.png" alt="Meme" width="400">
+# Features
+1. The user is greeted with a welcome message.  
+2. All the food categories (breakfast, lunch, dinner, snacks, dinners) are shown to the user.  
+3. The user can select any category or exit the program.  
+4. All the foods available under the selected category are displayed to the user.  
+5. The user selects any food item.  
+6. The user inputs the quantity of the selected food item. The quantity can be more than 9.  
+7. The total price is stored and displayed to the user.  
+8. From step 7, the user can go back to the food categories menu or the previous menu, order again, and have the price added to the total price, which is displayed to the user. Alternatively, the user can choose to view the bill.  
+9. After the final bill is displayed to the user, they can go back to the main category menu to order again or exit the program.  
+10. The system handles all types of invalid inputs from the user.  
+
+# Meme
+<img src="meme/meme.png" alt="Meme" width="300">
