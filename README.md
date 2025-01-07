@@ -10,5 +10,8 @@
 9. After the final bill is displayed to the user, they can go back to the main category menu to order again or exit the program.  
 10. The system handles all types of invalid inputs from the user.  
 
+# How to run this project
+
+
 # Meme
 <img src="meme/meme.png" alt="Meme" width="300">
