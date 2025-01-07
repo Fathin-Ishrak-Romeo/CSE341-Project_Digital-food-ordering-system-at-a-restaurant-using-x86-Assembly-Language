@@ -11,7 +11,8 @@
 10. The system handles all types of invalid inputs from the user.
 
 # Architecture & Topics Used
-## x86 architecture
+## x86 Architecture
+## Topics Covered
 1. Basic arithmetic operations.
 2. Single character I/O.
 3. String output.
