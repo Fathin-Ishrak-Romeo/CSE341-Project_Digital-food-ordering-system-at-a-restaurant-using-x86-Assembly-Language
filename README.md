@@ -11,7 +11,10 @@
 10. The system handles all types of invalid inputs from the user.  
 
 # How to run this project
-
+1. Download EMU8086 Emulator - [DOWNLOAD EMU8086 Emulator](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/emu8086-windows.zip)
+2. Extract the downloaded file.
+3. Install (Apply EMU8086 License Key while installation)
+4. Run [this code](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/Food%20Ordering%20System%20at%20Restaurant%20(User%20Interface).asm) in the EMU8086 Emulator 
 
 # Meme
 <img src="meme/meme.png" alt="Meme" width="300">
