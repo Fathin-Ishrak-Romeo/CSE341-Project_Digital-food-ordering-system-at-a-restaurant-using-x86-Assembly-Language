@@ -229,6 +229,7 @@ drinks:
     jmp process_selection
 
 invalid_input:
+    call clear_screen
     print invalid_msg
     mov ah, 01h
     int 21h
