@@ -10,6 +10,10 @@
 9. After the final bill is displayed to the user, they can go back to the main category menu to order again or exit the program.  
 10. The system handles all types of invalid inputs from the user.
 
+# Scope for Improvement
+1. This program currently doesn't support any 2-digit inputs from the user.
+2. This program currently lacks the option to allow a new user to use it without requiring a complete shutdown after the previous user finishes.
+
 # Architecture & Topics Used
 ## x86 Architecture
 ## Topics Covered
@@ -23,7 +27,7 @@
 8. Macros.
 9. Procedure.
 
-# How to run this project
+# How to Run This Program
 1. Download EMU8086 Emulator - [DOWNLOAD LINK](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/emu8086-windows.zip).
 2. Extract the downloaded file.
 3. Install (Apply EMU8086 License Key while installation).
