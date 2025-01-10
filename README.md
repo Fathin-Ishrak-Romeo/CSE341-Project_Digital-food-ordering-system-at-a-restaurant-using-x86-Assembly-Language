@@ -17,15 +17,15 @@
 # Architecture & Topics Used
 ## x86 Architecture
 ## Topics Covered
-1. Basic arithmetic operations.
-2. Single character I/O.
-3. String output.
-4. Branching.
-5. Loop.
-6. Stack.
-7. Array.
-8. Macros.
-9. Procedure.
+1. Basic arithmetic operations
+2. Single character I/O
+3. String output
+4. Branching
+5. Loop
+6. Stack
+7. Array
+8. Macros
+9. Procedure
 
 # How to Run This Program
 1. Download EMU8086 Emulator - [DOWNLOAD LINK](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/emu8086-windows.zip).
