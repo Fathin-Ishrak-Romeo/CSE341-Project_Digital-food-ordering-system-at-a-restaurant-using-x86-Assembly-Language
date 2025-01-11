@@ -31,7 +31,7 @@
 1. Download EMU8086 Emulator - [DOWNLOAD LINK](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/emu8086-windows.zip).
 2. Extract the downloaded file.
 3. Install (Apply EMU8086 License Key while installation).
-4. Run [this code](https://github.com/Fathin-Ishrak-Romeo/Food-ordering-system-at-restaurant-using-Assembly-Language/blob/main/Food%20Ordering%20System%20at%20Restaurant%20(User%20Interface).asm) in the EMU8086 Emulator. 
+4. Run [this code](https://github.com/Fathin-Ishrak-Romeo/CSE341-Project_Digital-food-ordering-system-at-a-restaurant-using-x86-Assembly-Language/blob/main/Digital%20Food%20Ordering%20System%20at%20a%20Restaurant%20(User%20Interface)%20using%20x86-Assembly%20Language.asm) in the EMU8086 Emulator. 
 
 # Meme
 <img src="meme/meme.png" alt="Meme" width="300">
